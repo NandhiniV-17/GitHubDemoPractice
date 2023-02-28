@@ -9,5 +9,6 @@ public class ForLoop {
 		for (int i=a;i<=b;i+=2)
 			System.out.println (+i);
 		
+		System.out.println("For GitHub Practice");
 }
 }
