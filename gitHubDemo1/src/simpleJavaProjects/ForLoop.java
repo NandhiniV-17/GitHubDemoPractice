@@ -10,5 +10,7 @@ public class ForLoop {
 			System.out.println (+i);
 		
 		System.out.println("For GitHub Practice");
+		System.out.println("Edited from local repo");
+		
 }
 }
